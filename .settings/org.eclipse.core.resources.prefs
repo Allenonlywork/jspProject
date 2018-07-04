@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/head.txt=GBK
+encoding//src/myservlet/control/HandleLogin.java=UTF-8
+encoding//src/myservlet/control/HandleRegister.java=UTF-8

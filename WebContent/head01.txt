@@ -1,0 +1,17 @@
+<%@ page contentType ="text/html;charset=GB2312" %>
+	<div align = "center">
+		<font color = red>
+			<H3>"青山不老绿水无忧"化妆品销售网 </H3>
+		</font>
+		<table  cellspacing = "1" cellpadding = "1" width = "600" align = "center" border = "0">
+			<tr valign = "bottom">	
+				<td><a href = "lookCosmetic.jsp">浏览化妆品</a></td>	
+				<td><a href = "searchCosmetic.jsp">查询化妆品</a></td>	
+				<td><a href = "lookShoppingCar.jsp">查询购物车</a></td>	
+				<td><a href = "lookOrderForm.jsp">查看订单</a></td>	
+				<td><a href = "exitServlet.jsp">退出</a></td>	
+				<td><a href = "index2.jsp">首页</a></td>	
+				
+			</tr>
+		</table>
+	</div>
